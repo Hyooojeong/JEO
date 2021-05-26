@@ -1,0 +1,18 @@
+<!DOCTYPE jeo>
+<jeo>
+<head>
+  <title>JEO - Webname </title>
+  <meta charset="utf-8">
+</head>
+<body>
+<h1><a href="index.jeo">JEO</a></h1>
+<ol>
+  <li><a href="1.jeo">PART1</a></li>
+  <li><a href="2.jeo">PART2</a></li>
+  <li><a href="3.jeo">PART3</a></li>
+</ol>
+
+<h2>PART1</h2>
+공부하기 싫다
+</body>
+</html>
